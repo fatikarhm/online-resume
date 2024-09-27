@@ -104,10 +104,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    Hello! I'm Fatika, a a communication graduate with 2 years experience involved in the media industry, marketing, also various projects and organizational roles.
-
-    She have a huge interest and constantly seeking opportunities to innovate and contribute in the fields of communication such as media planning, PR related or marketing and business roles. 
-    Please do not hesitate to contact me here or by email at fatikasarikurnia@gmail.com. Thank you!
+    Hello! I'm Fatika, a a communication graduate with 2 years experience involved in the media industry, marketing, also various projects and organizational roles. She have a huge interest and constantly seeking opportunities to innovate and contribute in the fields of communication such as media planning, PR related or marketing and business roles. Please do not hesitate to contact me here or by email at fatikasarikurnia@gmail.com. Thank you!
 
 experience:
   show: true
@@ -126,12 +123,12 @@ experience:
         + First
         + Second
 
-    - company: First Company
+    - company: Yayasan Global Insan (SMK Global Insan)
       link:
-      tags: Part-time, remote
+      tags: Part-time,
       date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
+      role: Teacher
+      location: Indonesia
       description: |
         Your key responsibilities and achievements in the company.
         + First
